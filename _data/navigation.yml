@@ -1,0 +1,13 @@
+main:
+- title: Home
+  url: /
+- title: news
+  url: /news/
+- title: Publications
+  url: /publications/
+- title: Teaching
+  url: /teaching/
+- title: Personal
+  url: /Personal/
+- title: CV
+  url: /cv/

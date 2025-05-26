@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-05-15 18:22:00 -0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper is accpeted to [CI'25](https://ci.acm.org/2025/)! More details to come...

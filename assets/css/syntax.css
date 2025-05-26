@@ -1,0 +1,22 @@
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+
+/* Custom Rouge syntax highlight theme based on GitHub style with mint blue keywords */
+.highlight pre, pre.highlight {
+  background-color: #f6f8fa;
+  padding: 1em;
+  overflow: auto;
+  border-radius: 6px;
+}
+
+.highlight .k { color: #008B8B !important; font-weight: bold; }  /* keyword */
+.highlight .n { color: #333; }                        /* name (variable, function) */
+.highlight .s { color: #d14; }                        /* string */
+.highlight .c { color: #999988; font-style: italic; } /* comment */
+.highlight .o { color: #008B8B !important; }                     /* operator */
+.highlight .p { color: #333; }                        /* punctuation */
+.highlight .cm { color: #999988; font-style: italic; }/* multiline comment */
+.highlight .mi { color: #008B8B !important; }                    /* integer */
+.highlight .mf { color: #008B8B !important; }                    /* float */
+.highlight .bp { color: #008B8B !important; }                    /* built-in pseudo keyword */
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
