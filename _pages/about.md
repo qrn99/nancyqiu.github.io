@@ -39,7 +39,7 @@ Hi! I am **Nancy Qiu**, a Ph.D. student in Mathematics and Science Education ([M
 
 Currently, I contribute to **NSF-funded projects** exploring how upper-division mathematics courses can better support future high school teachers. I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) UCSD, where I explore crowdsourcing workflows to support collective intelligence. 
 
-I received my Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics at the [University of British Columbia](https://www.ubc.ca/).
+I received an Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics at the [University of British Columbia](https://www.ubc.ca/).
 
 Outside of research, I enjoy journaling and folding origami.
 

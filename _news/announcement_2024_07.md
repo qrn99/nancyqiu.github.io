@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2024-07-22 09:00:00 -0700
+inline: true
+related_posts: false
+---
+
+:oncoming_automobile: Attending the 4-day [PEER Field School](https://peerinstitute.org/events/2024-socal/) in the the University of San Diego to learn discipline-based education research.
+

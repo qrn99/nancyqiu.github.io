@@ -10,13 +10,22 @@
 }
 
 .highlight .k { color: #008B8B !important; font-weight: bold; }  /* keyword */
-.highlight .n { color: #333; }                        /* name (variable, function) */
+.highlight .n { color: #008B8B; }                        /* name (variable, function) */
 .highlight .s { color: #d14; }                        /* string */
 .highlight .c { color: #999988; font-style: italic; } /* comment */
 .highlight .o { color: #008B8B !important; }                     /* operator */
-.highlight .p { color: #333; }                        /* punctuation */
+.highlight .p { color: #170ff9; }                        /* punctuation */
 .highlight .cm { color: #999988; font-style: italic; }/* multiline comment */
 .highlight .mi { color: #008B8B !important; }                    /* integer */
 .highlight .mf { color: #008B8B !important; }                    /* float */
 .highlight .bp { color: #008B8B !important; }                    /* built-in pseudo keyword */
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight-link {
+  color: #008B8B;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.news a {
+  color: #000000;
+  text-decoration: underline;
+}
