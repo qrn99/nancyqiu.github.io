@@ -3,8 +3,6 @@ main:
   url: /
 - title: news
   url: /news/
-- title: Publications
-  url: /publications/
 - title: Teaching
   url: /teaching/
 - title: Personal
