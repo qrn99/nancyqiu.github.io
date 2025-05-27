@@ -35,12 +35,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I am **Nancy** Ruo Ning Qiu, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research spans inquiry-oriented mathematics education, mathematical modeling, and design-based research, with a focus on equity, collaboration, and student thinking.
+Hi! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research spans inquiry-oriented mathematics education, mathematical modeling, and design-based research, with a focus on equity, collaboration, and student thinking.
 
-Currently, I contribute to a [**NSF-funded project**]() by exploring how upper-division mathematics courses can better support future secondary school teachers with Dr. Chris Rasmussen, Dr. Nick Fortune, and Dr. Deb Carney. I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) UCSD, where I explore crowdsourcing workflows to support collective intelligence. 
+Currently, I am a graudate reserach assitant @SDSU on an [NSF-funded project](https://crmse.sdsu.edu/directory/projects/making-math-more-relevant) that explores how an upper-division mathematics courses (Inquiry-Oriented Dynamical Systems and Modeling) can better support future secondary school teachers, under the supervision of Dr. [Chris Rasmussen](https://crmse.sdsu.edu/directory/rasmussen-chris), Dr. [Nick Fortune](https://www.wku.edu/math/facultystaff/nicholas_fortune), and Dr. [Debra Carney](https://ams.mines.edu/project/carney-debra/). I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) @UCSD, where we explore crowdsourcing workflows to support collective intelligence. I was a graduate reserach assitant for the [CHIRAL](https://komperda-cer.sdsu.edu/current-projects/#CHIRAL) project at SDSU, working with Dr. [Regis Komperda](https://www.chemistry.sdsu.edu/faculty/index.php?name=Komperda).
 
 I received an Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics at the [University of British Columbia](https://www.ubc.ca/).
 
 Outside of research, I enjoy journaling and folding origami.
 
-If you would like to chat, drop me an [email](mailto:nqiu5796@sdsu.edu)!
+If you would like to chat, drop me an [email](mailto:r1qiu@ucsd.edu) :email:!
