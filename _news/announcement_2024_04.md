@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:airplane: Attending [Critical Issues in Mathematics Education 2024](https://www.slmath.org/workshops/1096) workshop in UC Berkeley on Bringing Innovation to Scale: Teaching-Focused Faculty as Change Agents.
+:hammer_and_wrench: Attending [Critical Issues in Mathematics Education 2024](https://www.slmath.org/workshops/1096) workshop in UC Berkeley on Bringing Innovation to Scale: Teaching-Focused Faculty as Change Agents.

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:oncoming_automobile: Attending the 4-day [PEER Field School](https://peerinstitute.org/events/2024-socal/) in the the University of San Diego to learn discipline-based education research.
+:hammer_and_wrench: Attending the 4-day [PEER Field School](https://peerinstitute.org/events/2024-socal/) in the the University of San Diego to learn discipline-based education research.
 
