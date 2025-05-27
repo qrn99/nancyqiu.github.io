@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV_Qiu_May_2025.pdf # you can also use external links here
-description: My academic CV.
+description: My academic CV (updated on May 2025).
 toc:
   sidebar: left
 ---
