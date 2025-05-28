@@ -9,7 +9,7 @@ nav_order: 5
 
 Outside of my academic work, I enjoy quiet, hands-on creative hobbies. I keep a handwritten journal, combining notes, sketches, and small decorations to reflect on daily life. I also enjoy folding origami and taking photos of landscapes, simple ways to slow down and stay attentive to my surroundings.
 
-## 🧵 Origami Folding
+### :jigsaw: Origami Folding
 
 Here are three of my favorite origami designs. I folded them myself, based on the following models:
 
@@ -69,7 +69,7 @@ Here are three of my favorite origami designs. I folded them myself, based on th
 
 <div style="margin-top: 3em;"></div>
 
-## 📸 Photography
+### :camera_flash: Photography
 
 Some moments I captured (via Fujifilm X-M5):
 
