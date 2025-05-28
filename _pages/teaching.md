@@ -51,7 +51,7 @@ Graduate Teaching Assistant
 
 ---
 
-**Business Calculus**  
+**Integral Calculus with Applications to Commerce and Social Sciences**  
 *Winter 2022*, MATH 105, UBC  
 Graduate Teaching Assistant
 
@@ -64,7 +64,7 @@ Graduate Teaching Assistant
 ---
 
 **Linear Algebra I**  
-*Fall 2018, Winter 2019, Fall 2019, Winter 2020, Fall 2020, Winter 2021*, MAT223, UofT 
+*Fall 2018, Winter 2019, Fall 2019, Winter 2020, Fall 2020, Winter 2021*, MAT223, UofT  
 Undergraduate Teaching Assistant
 
 ---
