@@ -28,13 +28,7 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
-Hi! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research interest spans inquiry-based mathematics education, mathematical modeling, and design-based research, with a focus on student-centered practices supported by data analytics.
+Hello! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research interest spans inquiry-based mathematics education, mathematical modeling, and design-based research, with a focus on student-centered practices supported by data analytics.
 
 Currently, I am a graudate reserach assistant @SDSU on an [NSF-funded project](https://crmse.sdsu.edu/directory/projects/making-math-more-relevant) that explores how an upper-division mathematics course (Inquiry-Oriented Dynamical Systems and Modeling) can better support future secondary school teachers, under the supervision of Dr. [Chris Rasmussen](https://crmse.sdsu.edu/directory/rasmussen-chris), Dr. [Nick Fortune](https://www.wku.edu/math/facultystaff/nicholas_fortune), and Dr. [Debra Carney](https://ams.mines.edu/project/carney-debra/). 
 I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) @UCSD, where we explore crowdsourcing workflows to support collective intelligence. 
